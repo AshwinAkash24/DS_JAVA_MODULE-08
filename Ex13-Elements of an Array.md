@@ -43,6 +43,7 @@ public class FillArrayUsingArraysFill {
 ```
 
 ## Output:
+<img width="1241" height="323" alt="image" src="https://github.com/user-attachments/assets/a6b6c4ef-a399-4197-996b-ef60bd0c7e4a" />
 
 
 
