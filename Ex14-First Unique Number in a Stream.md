@@ -56,6 +56,7 @@ public class FirstUniqueNumberStream {
 ```
 
 ## Output:
+<img width="1242" height="636" alt="image" src="https://github.com/user-attachments/assets/c1f58387-9d04-4017-94f3-68f3448e40fb" />
 
 
 
