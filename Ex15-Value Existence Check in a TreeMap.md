@@ -51,6 +51,7 @@ public class TreeMapValueExistenceCheck {
 ```
 
 ## Output:
+<img width="1249" height="735" alt="image" src="https://github.com/user-attachments/assets/82f781eb-b564-4694-b48f-88d103dae84e" />
 
 
 
