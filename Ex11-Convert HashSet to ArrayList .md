@@ -47,6 +47,7 @@ public class HashSetToArrayList {
 ```
 
 ## Output:
+<img width="1245" height="663" alt="image" src="https://github.com/user-attachments/assets/e413bb22-b36d-477c-9132-752edabcbd8c" />
 
 
 
