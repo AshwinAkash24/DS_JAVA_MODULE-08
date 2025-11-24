@@ -50,6 +50,7 @@ public class ArrayToTreeSet {
 ```
 
 ## Output:
+<img width="1245" height="560" alt="image" src="https://github.com/user-attachments/assets/515fed99-0cc1-4c97-8160-98e101ce4da1" />
 
 
 
